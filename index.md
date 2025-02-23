@@ -5,7 +5,7 @@
 #####    Heading 5
 ######   Heading 6
 
-- [] Turn on GitHub Pages
+- [X] Turn on GitHub Pages
 - [] Outline my portfolio
 - [] Introduce myself to the world
 
